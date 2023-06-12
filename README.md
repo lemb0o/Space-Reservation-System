@@ -128,7 +128,7 @@ You should:
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/arabdigitalexpression/Mestek.git
+   git clone https://github.com/lemb0o/Space-Reservation-System.git
    ```
 3. Install dependencies
 
@@ -141,7 +141,7 @@ You should:
    ```
 
    ```sh
-   $ cd Mestek
+   $ cd Space-Reservation-System
    ```
 
    ```sh
